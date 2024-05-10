@@ -1,6 +1,6 @@
 # VBA-challenge
 
-![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/fe4bee0f-28e6-4f2b-9899-33458a6e8563)
+![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/7053c09a-32de-4ccf-9876-720a9b2b35b9)
 
 The project involves creating a VBA script to analyze stock market data using two workbooks: Test Data and Stock Data. The Test Data workbook, used during script development, contains six sheets labeled A-F and is smaller in size for testing purposes. The Stock Data workbook, containing the main data, comprises four sheets categorized by quarters (Q1, Q2, Q3, and Q4) and is larger in size. Data is sourced into Microsoft Excel, and VBA scripts are available in both workbook directories. Running the script on the Stock Data workbook may take some time due to its larger size.
 
@@ -28,16 +28,17 @@ Screenshots:
 
 Q1:
 
-![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/00e934c8-7a6d-4e19-8a81-c7718c8ca64d)
+![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/52d6bfd6-ce16-4ffc-89ce-ae7b72d64b37)
 
 Q2:
 
-![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/2b358ede-374e-45e7-892a-0b9796bab681)
+![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/f63e12c8-9e8c-4793-82e0-dcdc50ea44ac)
 
 Q3:
 
-![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/34c78787-38af-4d4d-b81e-242c08c56ba3)
+![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/46648004-2934-473c-a382-811a54619ee7)
 
 Q4:
 
-![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/14245253-e92f-4a4d-8eda-c9b23166ed44)
+![image](https://github.com/RaphaelSheikh/VBA-challenge/assets/166172978/c84aebbc-6ad3-4819-aef7-57fe831fd627)
+
